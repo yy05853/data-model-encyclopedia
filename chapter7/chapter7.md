@@ -35,6 +35,8 @@
 再掲
 ![image](https://user-images.githubusercontent.com/44853475/139512847-64d01626-d643-463a-b6fa-39fe5beb119e.png)
 
+![image](https://user-images.githubusercontent.com/44853475/139514303-4a3336d1-1cfd-4e83-b64d-1c67a9f090f2.png)
+
 ## フィーチャ・オプション
 
 ## 製造品目
