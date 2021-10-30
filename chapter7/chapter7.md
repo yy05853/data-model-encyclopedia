@@ -32,8 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/44853475/139513890-d7a46ea9-7952-4850-b8f9-020af65ddaf5.png)
 
-	-(再掲)
-
+↓再掲
 ![image](https://user-images.githubusercontent.com/44853475/139512847-64d01626-d643-463a-b6fa-39fe5beb119e.png)
 
 ## フィーチャ・オプション
