@@ -52,11 +52,23 @@
 再掲
 ![image](https://user-images.githubusercontent.com/44853475/139513890-d7a46ea9-7952-4850-b8f9-020af65ddaf5.png)
 
-	- 品種ごとの管理属性(フィーチャ)ととり得る値(オプション)の両方をあらかじめ決めておけるようになった
-
 ![image](https://user-images.githubusercontent.com/44853475/139537713-12159b05-c8a8-41a8-9110-d7a496a4caf8.png)
 
+	- 品種ごとの管理属性(フィーチャ)と、とり得る値(オプション)の両方をあらかじめ決めておけるようになった
+	- しかし、この形式でもFOを「リスト形式」でしか定義できない
+		- ”ケーブル長”といった数値系のフィーチャについては「範囲指定」したい
+		- ”版”だったら、1.3.24といった固有の編集形式にしたい
+
+
 ## FO評価式の組み込み
+
+![image](https://user-images.githubusercontent.com/44853475/139538543-fa398baf-333a-46f6-86b0-cee603485838.png)
+![image](https://user-images.githubusercontent.com/44853475/139538564-c3b8b698-c382-4983-854b-b6b7ca6f26f3.png)
+
+![image](https://user-images.githubusercontent.com/44853475/139538597-806fe504-295d-4aa8-854e-f3154a07aefb.png)
+
+再掲
+![image](https://user-images.githubusercontent.com/44853475/139514783-5afe8a9f-e735-4482-8ca2-8b01dfe85b02.png)
 
 ## 製造品目
 
