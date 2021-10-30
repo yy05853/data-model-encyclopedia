@@ -37,8 +37,8 @@
 
 ![image](https://user-images.githubusercontent.com/44853475/139514303-4a3336d1-1cfd-4e83-b64d-1c67a9f090f2.png)
 
-- 「品種」毎に「属性の組み合わせ」をあらかじめ決めるモデル
-- 属性値の値はフリーに入力できる
+	- 「品種」毎に「属性の組み合わせ」をあらかじめ決めるモデル
+	- 属性値の値はフリーに入力できる
 
 ## フィーチャ・オプション
 
@@ -48,6 +48,7 @@
 	- 略してFO
 
 ![image](https://user-images.githubusercontent.com/44853475/139514783-5afe8a9f-e735-4482-8ca2-8b01dfe85b02.png)
+
 再掲
 ![image](https://user-images.githubusercontent.com/44853475/139513890-d7a46ea9-7952-4850-b8f9-020af65ddaf5.png)
 
