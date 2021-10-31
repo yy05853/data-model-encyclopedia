@@ -70,7 +70,11 @@
 再掲
 ![image](https://user-images.githubusercontent.com/44853475/139514783-5afe8a9f-e735-4482-8ca2-8b01dfe85b02.png)
 
+![image](https://user-images.githubusercontent.com/44853475/139538752-9f6abc3c-ffb2-48ff-93cd-aec7f4e91281.png)
+
 ## 製造品目
+
+![image](https://user-images.githubusercontent.com/44853475/139561762-e303c1c3-0abe-4cc4-bacd-bba9e0f44be6.png)
 
 
 ## 部品表と工程表
