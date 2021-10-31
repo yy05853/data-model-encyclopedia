@@ -76,6 +76,9 @@
 
 ![image](https://user-images.githubusercontent.com/44853475/139561762-e303c1c3-0abe-4cc4-bacd-bba9e0f44be6.png)
 
+再掲
+![image](https://user-images.githubusercontent.com/44853475/139538597-806fe504-295d-4aa8-854e-f3154a07aefb.png)
+
 
 ## 部品表と工程表
 
