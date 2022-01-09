@@ -6,12 +6,23 @@
 
 - 参考URL
 	- https://it-trend.jp/budgetary-control/article/260-0022
+	- https://www.freee.co.jp/kb/kb-accounting/budget_management/
+
+- 予実管理の手順
+	- １．予算目標を立てる
+	- ２．予算を設定する
+	- ３．月次でチェックし軌道修正する
+
+- 予算とは
+	- 売上予算
+	- 原価予算
+	- 経費予算
+	- 利益予算
 
 - 予実管理の基本要素
 	- 部門
 	- 商品
 	- 得意先
-	- 設備(製造業の場合)
 	- 年月の時間軸
 
 - 予実管理業務の手順
