@@ -68,16 +68,10 @@
 
 ## 歳入予実管理
 
-### データモデル
-
-![image](https://user-images.githubusercontent.com/44853475/148690694-3b124af8-906d-4050-84cf-1e1791077ba4.png)
-
-### 国家予算編成の業務知識
+- 歳入科目
+	- https://www.city.kurayoshi.lg.jp/system/site/upload/live/1058/atc_1409753099.htm
 
 ## 歳出予実管理
 
-### 歳出の業務知識
-
-### データモデル
 
 
